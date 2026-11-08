@@ -1,0 +1,6 @@
+{
+  "name": "Automatic Trading Robot",
+  "description": "Professional automated trading robot controller for MT4, MT5, and Exness with VPS connectivity, real-time symbol controls, lot sizing, and remote EA execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
